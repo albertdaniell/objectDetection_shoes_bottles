@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>102.jpg</filename>
+	<path>/home/alby/Projects/Python/Object_Detection/models/research/object_detection/images/test/102.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>0</width>
+		<height>0</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>331</xmin>
+			<ymin>4</ymin>
+			<xmax>725</xmax>
+			<ymax>985</ymax>
+		</bndbox>
+	</object>
+</annotation>

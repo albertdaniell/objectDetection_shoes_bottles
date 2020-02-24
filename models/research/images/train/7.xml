@@ -1,0 +1,26 @@
+<annotation>
+	<folder>training</folder>
+	<filename>7.jpeg</filename>
+	<path>/home/alby/Downloads/training/7.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>374</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>shoe</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>9</xmin>
+			<ymin>4</ymin>
+			<xmax>600</xmax>
+			<ymax>369</ymax>
+		</bndbox>
+	</object>
+</annotation>

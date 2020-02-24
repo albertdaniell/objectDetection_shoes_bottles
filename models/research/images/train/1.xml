@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>1.jpg</filename>
+	<path>/home/alby/Projects/Python/Object_Detection/models/research/images/train/1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2363</width>
+		<height>2363</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>shoe</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>18</xmin>
+			<ymin>606</ymin>
+			<xmax>2363</xmax>
+			<ymax>1784</ymax>
+		</bndbox>
+	</object>
+</annotation>
